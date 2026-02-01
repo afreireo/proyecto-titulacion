@@ -4,5 +4,6 @@ ejemplos-aprobados/
 notas.txt
 ilustraciones/
 bibliografia-anterior.txt
-
+poc/.env
+poc/historial_procesados.txt
 
